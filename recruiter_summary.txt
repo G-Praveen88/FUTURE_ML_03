@@ -1,0 +1,37 @@
+RESUME SCREENING SYSTEM - RECRUITER SUMMARY
+==================================================
+Role: Data Analyst
+Total candidates screened: 120
+
+FIT DISTRIBUTION
+--------------------------------------------------
+Strong Fit (score >= 75):   37 candidates
+Moderate Fit (score 55-74): 40 candidates
+Weak Fit (score < 55):      43 candidates
+
+TOP 10 RECOMMENDED CANDIDATES
+--------------------------------------------------
+ 1. Karan Patel          | Score:  95.0 | Strong Fit    | Exp: 8.7 yrs | Matched: 100.0%
+ 2. Vikram Chopra        | Score:  93.9 | Strong Fit    | Exp: 7.6 yrs | Matched: 91.1%
+ 3. Ananya Joshi         | Score:  93.8 | Strong Fit    | Exp: 6.0 yrs | Matched: 100.0%
+ 4. Vikram Mehta         | Score:  92.5 | Strong Fit    | Exp: 8.2 yrs | Matched: 100.0%
+ 5. Manish Bhatt         | Score:  90.0 | Strong Fit    | Exp: 9.5 yrs | Matched: 100.0%
+ 6. Suresh Iyer          | Score:  90.0 | Strong Fit    | Exp: 9.9 yrs | Matched: 100.0%
+ 7. Sanjay Patel         | Score:  90.0 | Strong Fit    | Exp: 9.9 yrs | Matched: 100.0%
+ 8. Arjun Mehta          | Score:  87.5 | Strong Fit    | Exp: 5.6 yrs | Matched: 100.0%
+ 9. Meera Patel          | Score:  86.4 | Strong Fit    | Exp: 8.6 yrs | Matched: 88.9%
+10. Amit Sharma          | Score:  86.4 | Strong Fit    | Exp: 9.4 yrs | Matched: 88.9%
+
+MOST COMMON SKILL GAPS (across all candidates)
+--------------------------------------------------
+  Tableau: missing in 44 candidates
+  Power BI: missing in 42 candidates
+  Machine Learning: missing in 42 candidates
+  Python: missing in 41 candidates
+  Excel: missing in 38 candidates
+
+RECOMMENDATION
+--------------------------------------------------
+Proceed to interview stage with the 37 'Strong Fit' candidates first.
+Consider 'Moderate Fit' candidates if Strong Fit pool is insufficient,
+prioritizing those missing only 1-2 required skills.

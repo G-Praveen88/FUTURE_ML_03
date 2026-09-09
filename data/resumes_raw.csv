@@ -1,0 +1,121 @@
+candidate_id,name,email,experience_years,degree,skills,certifications,previous_companies
+C0001,Divya Sharma,divya.sharma1@email.com,3.7,B.E Electronics,"Python, Machine Learning, Tableau, Power BI, Excel, SQL, Leadership, Data Visualization, Statistics",4,4
+C0002,Varun Reddy,varun.reddy2@email.com,1.6,MBA Analytics,"Statistics, Machine Learning, Communication, SQL, Excel, Python",2,2
+C0003,Karan Patel,karan.patel3@email.com,8.7,B.Tech IT,"Statistics, Java, SQL, Excel, Project Management, C++, Tableau, Python, Machine Learning, Docker, Communication, Data Visualization, Power BI",2,4
+C0004,Rajesh Nair,rajesh.nair4@email.com,9.7,B.Sc Mathematics,"Statistics, Excel, Leadership, Docker, Machine Learning, Communication, Data Visualization, AWS, SQL, Power BI, Deep Learning, Tableau, Java, C++",1,3
+C0005,Vikram Rao,vikram.rao5@email.com,1.8,M.Sc Statistics,"Communication, Machine Learning, Statistics, SQL, Power BI",4,3
+C0006,Kritika Agarwal,kritika.agarwal6@email.com,0.2,MBA Analytics,"Statistics, Docker, Machine Learning",3,3
+C0007,Sanjay Kumar,sanjay.kumar7@email.com,5.9,B.Tech IT,"Python, Communication, Deep Learning, Tableau, AWS, Machine Learning, Power BI, Excel, Leadership",2,4
+C0008,Ashok Nair,ashok.nair8@email.com,4.5,B.Sc Mathematics,"C++, AWS, Statistics, Python, Excel, Machine Learning",0,3
+C0009,Gaurav Desai,gaurav.desai9@email.com,5.6,M.Sc Computer Science,"Tableau, Python, Statistics, SQL, Machine Learning, Excel, Communication, Power BI",1,4
+C0010,Sneha Patel,sneha.patel10@email.com,2.3,M.Sc Statistics,"Communication, Python, SQL, Tableau, Statistics, Machine Learning",3,4
+C0011,Ashok Rao,ashok.rao11@email.com,8.3,M.Sc Statistics,"Python, Docker, AWS, Java, Data Visualization, R, Machine Learning, Deep Learning, SQL, Power BI, C++, Communication",3,1
+C0012,Vikram Verma,vikram.verma12@email.com,6.6,B.Com,"Excel, Data Visualization, Machine Learning, R, Project Management, SQL, Python, Java, Statistics",1,3
+C0013,Aditya Malhotra,aditya.malhotra13@email.com,1.8,B.Tech IT,"Project Management, Tableau, Deep Learning",1,3
+C0014,Ananya Joshi,ananya.joshi14@email.com,6.0,B.Tech IT,"Tableau, Python, AWS, Communication, Deep Learning, Machine Learning, Power BI, SQL, Excel, Statistics",4,4
+C0015,Ritu Singh,ritu.singh15@email.com,2.7,B.Com,"Python, Machine Learning, Power BI, Communication, Excel, Tableau, SQL",1,0
+C0016,Kritika Kapoor,kritika.kapoor16@email.com,2.8,MCA,"Machine Learning, Communication, Power BI, SQL, Tableau, Python, Statistics, Excel",4,4
+C0017,Vikram Desai,vikram.desai17@email.com,0.7,B.Sc Mathematics,"Power BI, Communication, Machine Learning, Excel, SQL, Statistics, Python",0,3
+C0018,Kavya Menon,kavya.menon18@email.com,2.9,M.Tech Data Science,"Excel, R, Power BI, Deep Learning, Statistics, Java",0,2
+C0019,Payal Bhatt,payal.bhatt19@email.com,7.9,B.Tech IT,"Communication, Python, Tableau, SQL, Machine Learning, Java, Power BI, Deep Learning, C++, Statistics, R",1,1
+C0020,Arjun Nair,arjun.nair20@email.com,1.2,B.E Electronics,"SQL, Statistics, Excel, Power BI, Machine Learning, Python, Communication",3,1
+C0021,Priyanka Nair,priyanka.nair21@email.com,1.0,MCA,"SQL, Java, Machine Learning, Communication, R, Python",3,2
+C0022,Deepak Agarwal,deepak.agarwal22@email.com,5.6,MBA Analytics,"Power BI, Excel, SQL, R, Tableau, Statistics, Machine Learning, Python, Project Management",2,0
+C0023,Kavya Reddy,kavya.reddy23@email.com,7.2,B.Com,"Communication, Power BI, SQL, Java, Excel, Deep Learning, Machine Learning, Tableau, Python, Statistics",1,1
+C0024,Rohan Kapoor,rohan.kapoor24@email.com,4.4,B.Tech IT,"C++, Communication, Statistics, Excel, SQL, Python, Power BI",0,3
+C0025,Neha Das,neha.das25@email.com,5.6,B.Sc Mathematics,"Deep Learning, Python, Leadership, Tableau, Excel, Statistics, Power BI, SQL, Java, Machine Learning",4,2
+C0026,Rohan Malhotra,rohan.malhotra26@email.com,2.0,B.Sc Mathematics,"Statistics, Python, SQL, Communication, Excel, Tableau, Machine Learning",2,2
+C0027,Gaurav Iyer,gaurav.iyer27@email.com,1.6,B.Sc Mathematics,"Excel, Tableau, Python, Communication, Statistics, Machine Learning, SQL, Power BI",4,3
+C0028,Vivek Rao,vivek.rao28@email.com,8.0,B.Tech Computer Science,"R, Leadership, AWS, Project Management, Machine Learning, Power BI, Tableau, Java, Data Visualization, Communication, Statistics, Docker",2,1
+C0029,Rohan Reddy,rohan.reddy29@email.com,1.2,M.Sc Statistics,"Communication, Python, Excel, Power BI, Statistics, Tableau",0,0
+C0030,Meera Sharma,meera.sharma30@email.com,2.3,B.E Electronics,"Tableau, Power BI, SQL",4,0
+C0031,Swati Verma,swati.verma31@email.com,3.0,M.Tech Data Science,"Power BI, Statistics, Python, Tableau, Communication, SQL, Machine Learning, Excel",4,0
+C0032,Amit Reddy,amit.reddy32@email.com,1.2,MBA Analytics,"Excel, SQL, Power BI, Tableau, Communication, Machine Learning, Statistics",2,0
+C0033,Ashok Patel,ashok.patel33@email.com,4.0,B.Com,"Tableau, C++, Excel, Deep Learning, SQL",3,1
+C0034,Shreya Agarwal,shreya.agarwal34@email.com,7.1,B.Com,"Excel, Deep Learning, R, Communication, Python, Data Visualization, Leadership, Power BI, Docker, AWS, C++, Tableau",0,2
+C0035,Shreya Joshi,shreya.joshi35@email.com,6.1,B.Tech Computer Science,"Power BI, Deep Learning, Python, Tableau, SQL, Docker, Project Management, Excel",4,0
+C0036,Amit Joshi,amit.joshi36@email.com,6.3,MBA Analytics,"SQL, Project Management, Power BI, AWS, Excel, Machine Learning, Java, C++",3,1
+C0037,Sanjay Patel,sanjay.patel37@email.com,9.9,B.Com,"SQL, Project Management, C++, Deep Learning, Excel, Python, Power BI, Leadership, Tableau, Communication, Machine Learning, Statistics, Docker, Java",2,2
+C0038,Rahul Patel,rahul.patel38@email.com,2.4,MBA Analytics,"Project Management, Machine Learning, Python, Data Visualization, Communication, Power BI, R",1,2
+C0039,Vikram Mehta,vikram.mehta39@email.com,8.2,MBA Analytics,"Machine Learning, Deep Learning, Python, SQL, Communication, Excel, Statistics, Tableau, AWS, Power BI",3,2
+C0040,Ritu Patel,ritu.patel40@email.com,1.9,MCA,"Data Visualization, C++, Power BI, Statistics, Machine Learning, Deep Learning, Docker",3,3
+C0041,Priyanka Rao,priyanka.rao41@email.com,6.8,M.Tech Data Science,"Machine Learning, Docker, Statistics, AWS, Power BI, Leadership, Python, Deep Learning, Communication, Tableau",2,3
+C0042,Priya Patel,priya.patel42@email.com,6.5,MBA Analytics,"Tableau, Excel, Statistics, SQL, Docker, Communication, Power BI, Python, Data Visualization, Machine Learning, Leadership",0,1
+C0043,Divya Agarwal,divya.agarwal43@email.com,8.4,M.Tech Data Science,"SQL, C++, Power BI, Machine Learning, Statistics, R, Python, AWS, Docker, Excel, Communication, Tableau",0,1
+C0044,Karan Sharma,karan.sharma44@email.com,9.2,B.E Electronics,"R, Excel, Leadership, Project Management, Java, Communication, SQL, C++, Statistics, Power BI, Tableau, Python",3,1
+C0045,Varun Desai,varun.desai45@email.com,9.8,B.Sc Mathematics,"C++, Tableau, SQL, Statistics, Excel, Communication, Project Management, Machine Learning, Python, Data Visualization, Deep Learning, Leadership, R, AWS",1,0
+C0046,Rohan Reddy,rohan.reddy46@email.com,0.9,B.Sc Mathematics,"Machine Learning, Power BI, Excel, Statistics",4,2
+C0047,Ritika Rao,ritika.rao47@email.com,1.9,B.Sc Mathematics,"Python, AWS, Tableau",2,2
+C0048,Meera Patel,meera.patel48@email.com,8.6,M.Sc Computer Science,"Communication, Excel, SQL, Tableau, Data Visualization, Python, Statistics, Deep Learning, Docker, Machine Learning",3,2
+C0049,Amit Sharma,amit.sharma49@email.com,9.4,MCA,"Excel, SQL, Project Management, Python, Leadership, Statistics, R, Docker, Communication, Deep Learning, Java, C++, Tableau, Machine Learning",3,2
+C0050,Shreya Malhotra,shreya.malhotra50@email.com,3.7,MBA Analytics,"R, Java, Excel, Communication, Deep Learning",0,4
+C0051,Amit Menon,amit.menon51@email.com,2.8,M.Sc Statistics,"Deep Learning, SQL, Data Visualization, C++, Python",2,4
+C0052,Nisha Das,nisha.das52@email.com,2.2,B.Sc Mathematics,"Machine Learning, Power BI, Communication",0,4
+C0053,Kritika Kumar,kritika.kumar53@email.com,1.8,M.Sc Computer Science,"Deep Learning, Project Management, C++, Docker",0,3
+C0054,Ritu Singh,ritu.singh54@email.com,5.1,M.Sc Statistics,"Statistics, Power BI, Communication, AWS, Docker, SQL, C++, Java, Data Visualization, Python",2,2
+C0055,Swati Agarwal,swati.agarwal55@email.com,7.9,M.Sc Computer Science,"C++, SQL, R, Statistics, Power BI, Java, Leadership, Docker, Excel",4,3
+C0056,Ritika Kapoor,ritika.kapoor56@email.com,7.2,M.Tech Data Science,"Statistics, Docker, Excel, Leadership, Power BI, Data Visualization, Java, C++, AWS, Project Management",2,0
+C0057,Rajesh Joshi,rajesh.joshi57@email.com,0.4,B.Tech IT,"SQL, Power BI, Excel, Python",2,3
+C0058,Nisha Chopra,nisha.chopra58@email.com,0.2,MBA Analytics,"Data Visualization, Tableau, AWS, Python, Statistics",4,2
+C0059,Payal Joshi,payal.joshi59@email.com,9.8,B.Tech Computer Science,"AWS, Java, Machine Learning, SQL, Excel, C++, R, Docker, Python, Power BI, Deep Learning, Tableau, Data Visualization, Statistics",0,2
+C0060,Vivek Das,vivek.das60@email.com,1.7,B.Tech IT,"Communication, SQL, Machine Learning, Power BI, Tableau",1,2
+C0061,Payal Joshi,payal.joshi61@email.com,5.7,B.Tech IT,"Project Management, Machine Learning, Communication, SQL, Power BI, R, Statistics, C++",1,2
+C0062,Deepak Das,deepak.das62@email.com,3.0,B.Tech IT,"C++, Communication, Statistics, Data Visualization, Docker",0,0
+C0063,Ritu Joshi,ritu.joshi63@email.com,7.0,B.Tech IT,"R, Machine Learning, Docker, Excel, Project Management, Statistics, SQL, Deep Learning, Tableau, Communication, Python, AWS",1,2
+C0064,Rohan Iyer,rohan.iyer64@email.com,2.6,B.E Electronics,"SQL, AWS, Communication, Python, Excel, Tableau, Statistics",0,3
+C0065,Tanya Mehta,tanya.mehta65@email.com,8.0,B.Tech Computer Science,"Power BI, Machine Learning, Statistics, Java, Excel, Deep Learning, Communication, SQL, Tableau",3,2
+C0066,Amit Agarwal,amit.agarwal66@email.com,3.4,M.Tech Data Science,"Project Management, Deep Learning, Machine Learning, SQL, Tableau, Docker, R",1,2
+C0067,Priya Desai,priya.desai67@email.com,4.7,B.Com,"C++, Docker, SQL, Statistics, Leadership, Tableau, Python, Power BI, Communication, Machine Learning",1,1
+C0068,Swati Das,swati.das68@email.com,0.3,B.Sc Mathematics,"Power BI, Statistics, Machine Learning, SQL, Tableau",2,3
+C0069,Rohan Das,rohan.das69@email.com,3.3,B.Tech IT,"C++, Leadership, Deep Learning, Communication, Tableau, SQL, Power BI, Excel",3,4
+C0070,Kavya Desai,kavya.desai70@email.com,1.9,M.Sc Statistics,"SQL, Statistics, Excel, Machine Learning, Python, Communication",3,4
+C0071,Shreya Kumar,shreya.kumar71@email.com,9.7,B.E Electronics,"Leadership, Data Visualization, Power BI, Tableau, Deep Learning, Project Management, Excel, Python, C++, SQL, Statistics, AWS",0,2
+C0072,Divya Patel,divya.patel72@email.com,4.4,B.E Electronics,"SQL, Communication, Excel, Power BI, Data Visualization, Statistics",1,4
+C0073,Isha Chopra,isha.chopra73@email.com,0.8,M.Tech Data Science,"Communication, Python, Power BI, Machine Learning",0,1
+C0074,Deepak Patel,deepak.patel74@email.com,9.2,M.Sc Statistics,"Java, Statistics, Communication, Excel, AWS, Tableau, SQL, C++, Project Management, Deep Learning, Python, Data Visualization",0,4
+C0075,Varun Menon,varun.menon75@email.com,2.8,B.Tech IT,"Docker, Tableau, Excel, Communication, Python, AWS, Power BI, SQL",4,4
+C0076,Anjali Gupta,anjali.gupta76@email.com,4.2,B.Tech Computer Science,"Project Management, Tableau, Python, Excel, AWS, Machine Learning, R, Docker",4,0
+C0077,Vivek Desai,vivek.desai77@email.com,3.4,B.Tech IT,"Machine Learning, Python, R, Statistics, Excel, Communication, Tableau",0,3
+C0078,Neha Bhatt,neha.bhatt78@email.com,1.8,B.Tech Computer Science,"Statistics, Tableau, Communication, Power BI",3,0
+C0079,Pooja Nair,pooja.nair79@email.com,4.6,B.Sc Mathematics,"SQL, Machine Learning, Java, Tableau, Communication, Project Management, R, Python, Excel, Statistics",1,1
+C0080,Manish Bhatt,manish.bhatt80@email.com,9.5,B.Tech Computer Science,"Leadership, Java, Tableau, Statistics, Communication, Power BI, SQL, C++, AWS, Excel, Machine Learning, Project Management, Data Visualization, Python",3,1
+C0081,Sanjay Joshi,sanjay.joshi81@email.com,6.3,B.Com,"Python, Power BI, AWS, Deep Learning, Statistics, Data Visualization, SQL, Excel",4,4
+C0082,Ashok Reddy,ashok.reddy82@email.com,1.6,B.Com,"SQL, Leadership, Docker",3,2
+C0083,Priya Chopra,priya.chopra83@email.com,8.0,B.E Electronics,"Project Management, Statistics, Machine Learning, Docker, Leadership, Communication, SQL, Python, R, Excel, AWS, Deep Learning",2,3
+C0084,Sneha Joshi,sneha.joshi84@email.com,1.3,MBA Analytics,"Machine Learning, Power BI, Communication, Excel, Leadership, Statistics",2,4
+C0085,Aditya Kumar,aditya.kumar85@email.com,6.3,M.Tech Data Science,"Project Management, Statistics, Excel, C++, Communication, Deep Learning, Power BI",1,2
+C0086,Manoj Bhatt,manoj.bhatt86@email.com,2.0,MBA Analytics,"Machine Learning, Java, Docker, Deep Learning, Excel, Leadership, Communication",4,2
+C0087,Gaurav Patel,gaurav.patel87@email.com,6.2,M.Tech Data Science,"Tableau, Communication, Power BI, Python, Excel, SQL, Statistics",4,1
+C0088,Manoj Rao,manoj.rao88@email.com,6.8,MBA Analytics,"Python, Leadership, SQL, Excel, AWS, Communication, Machine Learning, C++, Statistics",0,3
+C0089,Tanya Iyer,tanya.iyer89@email.com,6.9,M.Sc Computer Science,"Machine Learning, Tableau, Statistics, R, Python, Java, Excel, SQL, Power BI",3,0
+C0090,Meera Das,meera.das90@email.com,8.0,B.E Electronics,"Data Visualization, C++, SQL, Statistics, Machine Learning, Tableau, Excel, R, Communication",1,4
+C0091,Tanya Sharma,tanya.sharma91@email.com,7.5,MCA,"AWS, Power BI, Data Visualization, Java, Python, Excel, Communication, Docker, Deep Learning, C++, Machine Learning",2,3
+C0092,Nikhil Singh,nikhil.singh92@email.com,3.7,M.Sc Computer Science,"Power BI, AWS, Machine Learning, Statistics, Python, Deep Learning, Leadership, Tableau, Communication",4,0
+C0093,Deepak Chopra,deepak.chopra93@email.com,2.4,MCA,"C++, R, Java",3,0
+C0094,Rahul Desai,rahul.desai94@email.com,3.2,B.Sc Mathematics,"Tableau, Python, C++, Excel, R, Machine Learning",0,3
+C0095,Sneha Singh,sneha.singh95@email.com,0.1,B.Com,"Power BI, Statistics",3,0
+C0096,Sneha Reddy,sneha.reddy96@email.com,3.2,M.Sc Statistics,"Project Management, Deep Learning, Communication, Python, Excel, Leadership, Java",1,4
+C0097,Priya Menon,priya.menon97@email.com,0.9,B.Tech IT,"Statistics, SQL, Machine Learning, Communication, Excel, Tableau, Python, Power BI",3,2
+C0098,Priya Nair,priya.nair98@email.com,2.1,M.Sc Computer Science,"Python, AWS, Statistics, Communication, Power BI, SQL, Tableau",0,4
+C0099,Swati Patel,swati.patel99@email.com,9.3,B.Com,"Project Management, C++, Python, Power BI, Leadership, Data Visualization, Tableau, Deep Learning, Statistics, Excel, Java, SQL",1,4
+C0100,Suresh Verma,suresh.verma100@email.com,7.4,MCA,"R, Project Management, Deep Learning, Python, Leadership, Docker, SQL, Excel, Communication, Power BI, Machine Learning, Tableau, Statistics",3,0
+C0101,Vikram Chopra,vikram.chopra101@email.com,7.6,B.Com,"Statistics, C++, Deep Learning, Java, Data Visualization, Tableau, Power BI, Communication, Python, SQL, R, Machine Learning",4,4
+C0102,Simran Chopra,simran.chopra102@email.com,2.2,MBA Analytics,"Tableau, Excel, Docker",2,1
+C0103,Nisha Nair,nisha.nair103@email.com,1.5,B.Tech IT,"Python, SQL, Data Visualization, Power BI, AWS, Machine Learning",2,4
+C0104,Manish Iyer,manish.iyer104@email.com,3.7,B.Tech IT,"Tableau, Communication, Deep Learning, Docker, Leadership, Excel, C++, Machine Learning",0,4
+C0105,Simran Das,simran.das105@email.com,7.5,M.Sc Computer Science,"Power BI, Leadership, Python, Docker, SQL, Project Management, Data Visualization, Statistics, Excel, C++, Communication, R",4,3
+C0106,Arjun Mehta,arjun.mehta106@email.com,5.6,M.Sc Statistics,"Statistics, Power BI, R, Excel, Communication, Machine Learning, Tableau, SQL, Python",2,4
+C0107,Payal Iyer,payal.iyer107@email.com,0.1,M.Tech Data Science,"Python, Statistics, SQL, Communication",3,4
+C0108,Sneha Menon,sneha.menon108@email.com,8.2,B.E Electronics,"SQL, Project Management, Machine Learning, Tableau, Statistics, Data Visualization, Excel, Communication, AWS, Docker",4,3
+C0109,Manoj Das,manoj.das109@email.com,9.6,B.E Electronics,"Python, SQL, Deep Learning, Tableau, Java, Data Visualization, Power BI, Docker, AWS, Communication, Statistics, Leadership, Project Management, C++",0,0
+C0110,Ananya Gupta,ananya.gupta110@email.com,2.2,MBA Analytics,"Communication, Excel, Machine Learning, SQL",4,2
+C0111,Nisha Iyer,nisha.iyer111@email.com,9.2,M.Sc Computer Science,"Excel, C++, R, Java, AWS, Statistics, Data Visualization, Deep Learning, SQL, Tableau, Communication, Power BI, Docker, Machine Learning",2,3
+C0112,Varun Desai,varun.desai112@email.com,0.8,B.Sc Mathematics,"Python, Project Management",0,4
+C0113,Suresh Reddy,suresh.reddy113@email.com,7.0,MBA Analytics,"Deep Learning, Tableau, Excel, Statistics, Data Visualization, Leadership, R, Power BI, Machine Learning, Python",0,2
+C0114,Gaurav Agarwal,gaurav.agarwal114@email.com,2.8,M.Sc Computer Science,"Power BI, Communication, Machine Learning, Python, SQL, Tableau, Excel",3,4
+C0115,Varun Reddy,varun.reddy115@email.com,2.8,M.Tech Data Science,"Excel, Communication, Java, Deep Learning, R, Tableau, Statistics",1,1
+C0116,Priya Patel,priya.patel116@email.com,2.3,M.Sc Computer Science,"SQL, Data Visualization, Statistics, Communication, Tableau, Power BI",0,3
+C0117,Suresh Iyer,suresh.iyer117@email.com,9.9,B.E Electronics,"Machine Learning, Statistics, Tableau, Docker, Excel, SQL, Communication, Power BI, Data Visualization, Java, Python",0,4
+C0118,Neha Desai,neha.desai118@email.com,8.1,MCA,"Data Visualization, Project Management, Tableau, Java, Excel, Deep Learning, Communication, Machine Learning, Statistics, SQL, Power BI, AWS",4,1
+C0119,Sunil Mehta,sunil.mehta119@email.com,4.2,MBA Analytics,"Machine Learning, Communication, Excel, Tableau, Statistics, SQL, Power BI, Python, Leadership",1,1
+C0120,Divya Malhotra,divya.malhotra120@email.com,9.3,M.Sc Statistics,"Data Visualization, Python, Leadership, Statistics, Tableau, Docker, Deep Learning, R, Java, SQL, Communication, Machine Learning",0,0

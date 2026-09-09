@@ -1,0 +1,121 @@
+rank,candidate_id,name,experience_years,degree,skill_match_pct,matched_skills,missing_skills,certifications,previous_companies,final_score,fit_tier
+1,C0003,Karan Patel,8.7,B.Tech IT,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,2,4,95.0,Strong Fit
+2,C0101,Vikram Chopra,7.6,B.Com,91.1,"Python, SQL, Power BI, Statistics, Machine Learning, Tableau, Communication",Excel,4,4,93.9,Strong Fit
+3,C0014,Ananya Joshi,6.0,B.Tech IT,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,4,4,93.8,Strong Fit
+4,C0039,Vikram Mehta,8.2,MBA Analytics,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,3,2,92.5,Strong Fit
+5,C0080,Manish Bhatt,9.5,B.Tech Computer Science,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,3,1,90.0,Strong Fit
+6,C0117,Suresh Iyer,9.9,B.E Electronics,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,0,4,90.0,Strong Fit
+7,C0037,Sanjay Patel,9.9,B.Com,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,2,2,90.0,Strong Fit
+8,C0106,Arjun Mehta,5.6,M.Sc Statistics,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,2,4,87.5,Strong Fit
+9,C0048,Meera Patel,8.6,M.Sc Computer Science,88.9,"Python, SQL, Excel, Statistics, Machine Learning, Tableau, Communication",Power BI,3,2,86.4,Strong Fit
+10,C0049,Amit Sharma,9.4,MCA,88.9,"Python, SQL, Excel, Statistics, Machine Learning, Tableau, Communication",Power BI,3,2,86.4,Strong Fit
+11,C0100,Suresh Verma,7.4,MCA,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,3,0,85.6,Strong Fit
+12,C0009,Gaurav Desai,5.6,M.Sc Computer Science,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,1,4,85.0,Strong Fit
+13,C0016,Kritika Kapoor,2.8,MCA,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,4,4,83.8,Strong Fit
+14,C0111,Nisha Iyer,9.2,M.Sc Computer Science,83.3,"SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",Python,2,3,83.3,Strong Fit
+15,C0065,Tanya Mehta,8.0,B.Tech Computer Science,83.3,"SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",Python,3,2,83.3,Strong Fit
+16,C0118,Neha Desai,8.1,MCA,83.3,"SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",Python,4,1,83.3,Strong Fit
+17,C0025,Neha Das,5.6,B.Sc Mathematics,92.2,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau",Communication,4,2,83.2,Strong Fit
+18,C0023,Kavya Reddy,7.2,B.Com,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,1,1,82.5,Strong Fit
+19,C0043,Divya Agarwal,8.4,M.Tech Data Science,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,0,1,82.5,Strong Fit
+20,C0001,Divya Sharma,3.7,B.E Electronics,92.2,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau",Communication,4,4,82.3,Strong Fit
+21,C0108,Sneha Menon,8.2,B.E Electronics,72.2,"SQL, Excel, Statistics, Machine Learning, Tableau, Communication","Python, Power BI",4,3,82.2,Strong Fit
+22,C0044,Karan Sharma,9.2,B.E Electronics,85.6,"Python, SQL, Excel, Power BI, Statistics, Tableau, Communication",Machine Learning,3,1,82.1,Strong Fit
+23,C0105,Simran Das,7.5,M.Sc Computer Science,74.4,"Python, SQL, Excel, Power BI, Statistics, Communication","Machine Learning, Tableau",4,3,81.9,Strong Fit
+24,C0004,Rajesh Nair,9.7,B.Sc Mathematics,83.3,"SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",Python,1,3,80.8,Strong Fit
+25,C0059,Payal Joshi,9.8,B.Tech Computer Science,92.2,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau",Communication,0,2,80.7,Strong Fit
+26,C0083,Priya Chopra,8.0,B.E Electronics,77.8,"Python, SQL, Excel, Statistics, Machine Learning, Communication","Power BI, Tableau",2,3,80.3,Strong Fit
+27,C0099,Swati Patel,9.3,B.Com,77.8,"Python, SQL, Excel, Power BI, Statistics, Tableau","Machine Learning, Communication",1,4,80.3,Strong Fit
+28,C0089,Tanya Iyer,6.9,M.Sc Computer Science,92.2,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau",Communication,3,0,79.8,Strong Fit
+29,C0019,Payal Bhatt,7.9,B.Tech IT,91.1,"Python, SQL, Power BI, Statistics, Machine Learning, Tableau, Communication",Excel,1,1,79.8,Strong Fit
+30,C0087,Gaurav Patel,6.2,M.Tech Data Science,85.6,"Python, SQL, Excel, Power BI, Statistics, Tableau, Communication",Machine Learning,4,1,79.0,Strong Fit
+31,C0063,Ritu Joshi,7.0,B.Tech IT,88.9,"Python, SQL, Excel, Statistics, Machine Learning, Tableau, Communication",Power BI,1,2,78.3,Strong Fit
+32,C0042,Priya Patel,6.5,MBA Analytics,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,0,1,77.8,Strong Fit
+33,C0027,Gaurav Iyer,1.6,B.Sc Mathematics,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,4,3,77.5,Strong Fit
+34,C0090,Meera Das,8.0,B.E Electronics,72.2,"SQL, Excel, Statistics, Machine Learning, Tableau, Communication","Python, Power BI",1,4,77.2,Strong Fit
+35,C0081,Sanjay Joshi,6.3,B.Com,66.7,"Python, SQL, Excel, Power BI, Statistics","Machine Learning, Tableau, Communication",4,4,76.4,Strong Fit
+36,C0045,Varun Desai,9.8,B.Sc Mathematics,88.9,"Python, SQL, Excel, Statistics, Machine Learning, Tableau, Communication",Power BI,1,0,76.4,Strong Fit
+37,C0074,Deepak Patel,9.2,M.Sc Statistics,74.4,"Python, SQL, Excel, Statistics, Tableau, Communication","Power BI, Machine Learning",0,4,75.9,Strong Fit
+38,C0041,Priyanka Rao,6.8,M.Tech Data Science,74.4,"Python, Power BI, Statistics, Machine Learning, Tableau, Communication","SQL, Excel",2,3,74.7,Moderate Fit
+39,C0031,Swati Verma,3.0,M.Tech Data Science,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,4,0,74.4,Moderate Fit
+40,C0114,Gaurav Agarwal,2.8,M.Sc Computer Science,86.7,"Python, SQL, Excel, Power BI, Machine Learning, Tableau, Communication",Statistics,3,4,73.9,Moderate Fit
+41,C0022,Deepak Agarwal,5.6,MBA Analytics,92.2,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau",Communication,2,0,73.2,Moderate Fit
+42,C0119,Sunil Mehta,4.2,MBA Analytics,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,1,1,73.1,Moderate Fit
+43,C0071,Shreya Kumar,9.7,B.E Electronics,77.8,"Python, SQL, Excel, Power BI, Statistics, Tableau","Machine Learning, Communication",0,2,72.8,Moderate Fit
+44,C0007,Sanjay Kumar,5.9,B.Tech IT,70.0,"Python, Excel, Power BI, Machine Learning, Tableau, Communication","SQL, Statistics",2,4,71.9,Moderate Fit
+45,C0011,Ashok Rao,8.3,M.Sc Statistics,66.7,"Python, SQL, Power BI, Machine Learning, Communication","Excel, Statistics, Tableau",3,1,71.7,Moderate Fit
+46,C0088,Manoj Rao,6.8,MBA Analytics,77.8,"Python, SQL, Excel, Statistics, Machine Learning, Communication","Power BI, Tableau",0,3,71.5,Moderate Fit
+47,C0097,Priya Menon,0.9,B.Tech IT,100.0,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",,3,2,70.3,Moderate Fit
+48,C0067,Priya Desai,4.7,B.Com,91.1,"Python, SQL, Power BI, Statistics, Machine Learning, Tableau, Communication",Excel,1,1,69.8,Moderate Fit
+49,C0055,Swati Agarwal,7.9,M.Sc Computer Science,50.0,"SQL, Excel, Power BI, Statistics","Python, Machine Learning, Tableau, Communication",4,3,69.7,Moderate Fit
+50,C0012,Vikram Verma,6.6,B.Com,70.0,"Python, SQL, Excel, Statistics, Machine Learning","Power BI, Tableau, Communication",1,3,69.1,Moderate Fit
+51,C0120,Divya Malhotra,9.3,M.Sc Statistics,80.0,"Python, SQL, Statistics, Machine Learning, Tableau, Communication","Excel, Power BI",0,0,69.0,Moderate Fit
+52,C0010,Sneha Patel,2.3,M.Sc Statistics,80.0,"Python, SQL, Statistics, Machine Learning, Tableau, Communication","Excel, Power BI",3,4,68.7,Moderate Fit
+53,C0075,Varun Menon,2.8,B.Tech IT,72.2,"Python, SQL, Excel, Power BI, Tableau, Communication","Statistics, Machine Learning",4,4,68.5,Moderate Fit
+54,C0113,Suresh Reddy,7.0,MBA Analytics,75.6,"Python, Excel, Power BI, Statistics, Machine Learning, Tableau","SQL, Communication",0,2,68.5,Moderate Fit
+55,C0091,Tanya Sharma,7.5,MCA,58.9,"Python, Excel, Power BI, Machine Learning, Communication","SQL, Statistics, Tableau",2,3,68.3,Moderate Fit
+56,C0079,Pooja Nair,4.6,B.Sc Mathematics,88.9,"Python, SQL, Excel, Statistics, Machine Learning, Tableau, Communication",Power BI,1,1,68.3,Moderate Fit
+57,C0109,Manoj Das,9.6,B.E Electronics,76.7,"Python, SQL, Power BI, Statistics, Tableau, Communication","Excel, Machine Learning",0,0,67.2,Moderate Fit
+58,C0070,Kavya Desai,1.9,M.Sc Statistics,77.8,"Python, SQL, Excel, Statistics, Machine Learning, Communication","Power BI, Tableau",3,4,66.2,Moderate Fit
+59,C0026,Rohan Malhotra,2.0,B.Sc Mathematics,88.9,"Python, SQL, Excel, Statistics, Machine Learning, Tableau, Communication",Power BI,2,2,65.1,Moderate Fit
+60,C0035,Shreya Joshi,6.1,B.Tech Computer Science,64.4,"Python, SQL, Excel, Power BI, Tableau","Statistics, Machine Learning, Communication",4,0,64.5,Moderate Fit
+61,C0028,Vivek Rao,8.0,B.Tech Computer Science,57.8,"Power BI, Statistics, Machine Learning, Tableau, Communication","Python, SQL, Excel",2,1,64.3,Moderate Fit
+62,C0020,Arjun Nair,1.2,B.E Electronics,88.9,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Communication",Tableau,3,1,62.6,Moderate Fit
+63,C0092,Nikhil Singh,3.7,M.Sc Computer Science,74.4,"Python, Power BI, Statistics, Machine Learning, Tableau, Communication","SQL, Excel",4,0,62.5,Moderate Fit
+64,C0024,Rohan Kapoor,4.4,B.Tech IT,74.4,"Python, SQL, Excel, Power BI, Statistics, Communication","Machine Learning, Tableau",0,3,62.2,Moderate Fit
+65,C0054,Ritu Singh,5.1,M.Sc Statistics,65.6,"Python, SQL, Power BI, Statistics, Communication","Excel, Machine Learning, Tableau",2,2,62.0,Moderate Fit
+66,C0061,Payal Joshi,5.7,B.Tech IT,63.3,"SQL, Power BI, Statistics, Machine Learning, Communication","Python, Excel, Tableau",1,2,60.1,Moderate Fit
+67,C0098,Priya Nair,2.1,M.Sc Computer Science,76.7,"Python, SQL, Power BI, Statistics, Tableau, Communication","Excel, Machine Learning",0,4,58.7,Moderate Fit
+68,C0015,Ritu Singh,2.7,B.Com,86.7,"Python, SQL, Excel, Power BI, Machine Learning, Tableau, Communication",Statistics,1,0,58.6,Moderate Fit
+69,C0017,Vikram Desai,0.7,B.Sc Mathematics,88.9,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Communication",Tableau,0,3,58.6,Moderate Fit
+70,C0069,Rohan Das,3.3,B.Tech IT,55.6,"SQL, Excel, Power BI, Tableau, Communication","Python, Statistics, Machine Learning",3,4,58.4,Moderate Fit
+71,C0072,Divya Patel,4.4,B.E Electronics,57.8,"SQL, Excel, Power BI, Statistics, Communication","Python, Machine Learning, Tableau",1,4,58.0,Moderate Fit
+72,C0005,Vikram Rao,1.8,M.Sc Statistics,63.3,"SQL, Power BI, Statistics, Machine Learning, Communication","Python, Excel, Tableau",4,3,57.9,Moderate Fit
+73,C0036,Amit Joshi,6.3,MBA Analytics,51.1,"SQL, Excel, Power BI, Machine Learning","Python, Statistics, Tableau, Communication",3,1,57.8,Moderate Fit
+74,C0077,Vivek Desai,3.4,B.Tech IT,72.2,"Python, Excel, Statistics, Machine Learning, Tableau, Communication","SQL, Power BI",0,3,57.8,Moderate Fit
+75,C0002,Varun Reddy,1.6,MBA Analytics,77.8,"Python, SQL, Excel, Statistics, Machine Learning, Communication","Power BI, Tableau",2,2,57.8,Moderate Fit
+76,C0034,Shreya Agarwal,7.1,B.Com,55.6,"Python, Excel, Power BI, Tableau, Communication","SQL, Statistics, Machine Learning",0,2,57.8,Moderate Fit
+77,C0064,Rohan Iyer,2.6,B.E Electronics,74.4,"Python, SQL, Excel, Statistics, Tableau, Communication","Power BI, Machine Learning",0,3,56.5,Moderate Fit
+78,C0032,Amit Reddy,1.2,MBA Analytics,83.3,"SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",Python,2,0,54.6,Weak Fit
+79,C0103,Nisha Nair,1.5,B.Tech IT,58.9,"Python, SQL, Power BI, Machine Learning","Excel, Statistics, Tableau, Communication",2,4,52.1,Weak Fit
+80,C0076,Anjali Gupta,4.2,B.Tech Computer Science,51.1,"Python, Excel, Machine Learning, Tableau","SQL, Power BI, Statistics, Communication",4,0,51.2,Weak Fit
+81,C0008,Ashok Nair,4.5,B.Sc Mathematics,53.3,"Python, Excel, Statistics, Machine Learning","SQL, Power BI, Tableau, Communication",0,3,50.9,Weak Fit
+82,C0068,Swati Das,0.3,B.Sc Mathematics,66.7,"SQL, Power BI, Statistics, Machine Learning, Tableau","Python, Excel, Communication",2,3,50.1,Weak Fit
+83,C0085,Aditya Kumar,6.3,M.Tech Data Science,41.1,"Excel, Power BI, Statistics, Communication","Python, SQL, Machine Learning, Tableau",1,2,49.8,Weak Fit
+84,C0084,Sneha Joshi,1.3,MBA Analytics,55.6,"Excel, Power BI, Statistics, Machine Learning, Communication","Python, SQL, Tableau",2,4,49.6,Weak Fit
+85,C0110,Ananya Gupta,2.2,MBA Analytics,47.8,"SQL, Excel, Machine Learning, Communication","Python, Power BI, Statistics, Tableau",4,2,48.2,Weak Fit
+86,C0116,Priya Patel,2.3,M.Sc Computer Science,60.0,"SQL, Power BI, Statistics, Tableau, Communication","Python, Excel, Machine Learning",0,3,47.7,Weak Fit
+87,C0107,Payal Iyer,0.1,M.Tech Data Science,54.4,"Python, SQL, Statistics, Communication","Excel, Power BI, Machine Learning, Tableau",3,4,47.7,Weak Fit
+88,C0060,Vivek Das,1.7,B.Tech IT,61.1,"SQL, Power BI, Machine Learning, Tableau, Communication","Python, Excel, Statistics",1,2,46.4,Weak Fit
+89,C0021,Priyanka Nair,1.0,MCA,55.6,"Python, SQL, Machine Learning, Communication","Excel, Power BI, Statistics, Tableau",3,2,46.2,Weak Fit
+90,C0056,Ritika Kapoor,7.2,M.Tech Data Science,33.3,"Excel, Power BI, Statistics","Python, SQL, Machine Learning, Tableau, Communication",2,0,45.8,Weak Fit
+91,C0094,Rahul Desai,3.2,B.Sc Mathematics,51.1,"Python, Excel, Machine Learning, Tableau","SQL, Power BI, Statistics, Communication",0,3,45.6,Weak Fit
+92,C0104,Manish Iyer,3.7,B.Tech IT,42.2,"Excel, Machine Learning, Tableau, Communication","Python, SQL, Power BI, Statistics",0,4,44.8,Weak Fit
+93,C0046,Rohan Reddy,0.9,B.Sc Mathematics,47.8,"Excel, Power BI, Statistics, Machine Learning","Python, SQL, Tableau, Communication",4,2,44.1,Weak Fit
+94,C0057,Rajesh Joshi,0.4,B.Tech IT,53.3,"Python, SQL, Excel, Power BI","Statistics, Machine Learning, Tableau, Communication",2,3,43.1,Weak Fit
+95,C0033,Ashok Patel,4.0,B.Com,36.7,"SQL, Excel, Tableau","Python, Power BI, Statistics, Machine Learning, Communication",3,1,42.7,Weak Fit
+96,C0038,Rahul Patel,2.4,MBA Analytics,50.0,"Python, Power BI, Machine Learning, Communication","SQL, Excel, Statistics, Tableau",1,2,42.5,Weak Fit
+97,C0040,Ritu Patel,1.9,MCA,38.9,"Power BI, Statistics, Machine Learning","Python, SQL, Excel, Tableau, Communication",3,3,42.3,Weak Fit
+98,C0051,Amit Menon,2.8,M.Sc Statistics,33.3,"Python, SQL","Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",2,4,42.1,Weak Fit
+99,C0029,Rohan Reddy,1.2,M.Sc Statistics,68.9,"Python, Excel, Power BI, Statistics, Tableau, Communication","SQL, Machine Learning",0,0,41.6,Weak Fit
+100,C0066,Amit Agarwal,3.4,M.Tech Data Science,42.2,"SQL, Machine Learning, Tableau","Python, Excel, Power BI, Statistics, Communication",1,2,41.3,Weak Fit
+101,C0096,Sneha Reddy,3.2,M.Sc Statistics,33.3,"Python, Excel, Communication","SQL, Power BI, Statistics, Machine Learning, Tableau",1,4,40.8,Weak Fit
+102,C0030,Meera Sharma,2.3,B.E Electronics,38.9,"SQL, Power BI, Tableau","Python, Excel, Statistics, Machine Learning, Communication",4,0,38.6,Weak Fit
+103,C0086,Manoj Bhatt,2.0,MBA Analytics,31.1,"Excel, Machine Learning, Communication","Python, SQL, Power BI, Statistics, Tableau",4,2,38.4,Weak Fit
+104,C0058,Nisha Chopra,0.2,MBA Analytics,41.1,"Python, Statistics, Tableau","SQL, Excel, Power BI, Machine Learning, Communication",4,2,38.2,Weak Fit
+105,C0078,Neha Bhatt,1.8,B.Tech Computer Science,43.3,"Power BI, Statistics, Tableau, Communication","Python, SQL, Excel, Machine Learning",3,0,36.9,Weak Fit
+106,C0115,Varun Reddy,2.8,M.Tech Data Science,41.1,"Excel, Statistics, Tableau, Communication","Python, SQL, Power BI, Machine Learning",1,1,36.4,Weak Fit
+107,C0052,Nisha Das,2.2,B.Sc Mathematics,33.3,"Power BI, Machine Learning, Communication","Python, SQL, Excel, Statistics, Tableau",0,4,35.2,Weak Fit
+108,C0073,Isha Chopra,0.8,M.Tech Data Science,50.0,"Python, Power BI, Machine Learning, Communication","SQL, Excel, Statistics, Tableau",0,1,32.5,Weak Fit
+109,C0018,Kavya Menon,2.9,M.Tech Data Science,33.3,"Excel, Power BI, Statistics","Python, SQL, Machine Learning, Tableau, Communication",0,2,32.4,Weak Fit
+110,C0047,Ritika Rao,1.9,B.Sc Mathematics,27.8,"Python, Tableau","SQL, Excel, Power BI, Statistics, Machine Learning, Communication",2,2,31.2,Weak Fit
+111,C0006,Kritika Agarwal,0.2,MBA Analytics,27.8,"Statistics, Machine Learning","Python, SQL, Excel, Power BI, Tableau, Communication",3,3,30.9,Weak Fit
+112,C0050,Shreya Malhotra,3.7,MBA Analytics,16.7,"Excel, Communication","Python, SQL, Power BI, Statistics, Machine Learning, Tableau",0,4,30.7,Weak Fit
+113,C0082,Ashok Reddy,1.6,B.Com,16.7,SQL,"Python, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",3,2,26.7,Weak Fit
+114,C0102,Simran Chopra,2.2,MBA Analytics,20.0,"Excel, Tableau","Python, SQL, Power BI, Statistics, Machine Learning, Communication",2,1,25.4,Weak Fit
+115,C0112,Varun Desai,0.8,B.Sc Mathematics,16.7,Python,"SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",0,4,21.7,Weak Fit
+116,C0013,Aditya Malhotra,1.8,B.Tech IT,11.1,Tableau,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Communication",1,3,21.7,Weak Fit
+117,C0095,Sneha Singh,0.1,B.Com,24.4,"Power BI, Statistics","Python, SQL, Excel, Machine Learning, Tableau, Communication",3,0,21.2,Weak Fit
+118,C0062,Deepak Das,3.0,B.Tech IT,21.1,"Statistics, Communication","Python, SQL, Excel, Power BI, Machine Learning, Tableau",0,0,21.0,Weak Fit
+119,C0093,Deepak Chopra,2.4,MCA,0.0,,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",3,0,15.0,Weak Fit
+120,C0053,Kritika Kumar,1.8,M.Sc Computer Science,0.0,,"Python, SQL, Excel, Power BI, Statistics, Machine Learning, Tableau, Communication",0,3,13.1,Weak Fit
