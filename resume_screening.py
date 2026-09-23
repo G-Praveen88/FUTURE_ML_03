@@ -11,6 +11,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+import webbrowser
+import os
 
 sns.set_style("whitegrid")
 plt.rcParams["figure.dpi"] = 100
@@ -120,6 +122,9 @@ plt.tight_layout()
 plt.savefig("candidate_ranking.png", dpi=100, bbox_inches="tight")
 plt.close()
 print("Saved chart -> candidate_ranking.png")
+webbrowser.open_new_tab(
+    "file://" + os.path.abspath("candidate_ranking.png")
+)
 
 # ---------------------------------------------------------------
 # 6. Visualization 2: Skill gap heatmap (top 20 candidates)
@@ -144,6 +149,9 @@ plt.tight_layout()
 plt.savefig("skill_gap_heatmap.png", dpi=100, bbox_inches="tight")
 plt.close()
 print("Saved chart -> skill_gap_heatmap.png")
+webbrowser.open_new_tab(
+    "file://" + os.path.abspath("skill_gap_heatmap.png")
+)
 
 # ---------------------------------------------------------------
 # 7. Recruiter summary
@@ -169,7 +177,7 @@ summary_lines = [
     f"Moderate Fit (score 55-74): {moderate_count} candidates",
     f"Weak Fit (score < 55):      {weak_count} candidates",
     "",
-    "TOP 10 RECOMMENDED CANDIDATES",
+    "TOP 10 RANKED CANDIDATES",
     "-" * 50,
 ]
 
@@ -190,11 +198,11 @@ for skill, count in most_common_missing.head(5).items():
 
 summary_lines += [
     "",
-    "RECOMMENDATION",
+    "SCREENING SUMMARY",
     "-" * 50,
-    f"Proceed to interview stage with the {strong_count} 'Strong Fit' candidates first.",
-    "Consider 'Moderate Fit' candidates if Strong Fit pool is insufficient,",
-    "prioritizing those missing only 1-2 required skills.",
+    f"{strong_count} candidates are classified as 'Strong Fit' based on the scoring criteria.",
+    f"{moderate_count} candidates are classified as 'Moderate Fit'.",
+    "Final interview and hiring decisions should be made by the recruiter.",
 ]
 
 with open("recruiter_summary.txt", "w") as f:

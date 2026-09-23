@@ -9,7 +9,7 @@ Strong Fit (score >= 75):   37 candidates
 Moderate Fit (score 55-74): 40 candidates
 Weak Fit (score < 55):      43 candidates
 
-TOP 10 RECOMMENDED CANDIDATES
+TOP 10 RANKED CANDIDATES
 --------------------------------------------------
  1. Karan Patel          | Score:  95.0 | Strong Fit    | Exp: 8.7 yrs | Matched: 100.0%
  2. Vikram Chopra        | Score:  93.9 | Strong Fit    | Exp: 7.6 yrs | Matched: 91.1%
@@ -30,8 +30,8 @@ MOST COMMON SKILL GAPS (across all candidates)
   Python: missing in 41 candidates
   Excel: missing in 38 candidates
 
-RECOMMENDATION
+SCREENING SUMMARY
 --------------------------------------------------
-Proceed to interview stage with the 37 'Strong Fit' candidates first.
-Consider 'Moderate Fit' candidates if Strong Fit pool is insufficient,
-prioritizing those missing only 1-2 required skills.
+37 candidates are classified as 'Strong Fit' based on the scoring criteria.
+40 candidates are classified as 'Moderate Fit'.
+Final interview and hiring decisions should be made by the recruiter.
